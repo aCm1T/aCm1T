@@ -1,10 +1,10 @@
-<h1 align="center">
+K<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=35&duration=4000&pause=1000&color=4CC9F0&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+ACM1966;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.cnblogs.com/CodingPlus/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-CodingPlus-7209b7?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwIDRINEMyLjkgNCAyIDQuOSAyIDZ2MTJjMCAxLjEuOSAyIDIgMmgxNmMxLjEgMCAyLS45IDItMlY2YzAtMS4xLS45LTItMi0yem0wIDE0SDRWOGG0djEweiIvPjwvc3ZnPg==&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-CodingPlus-7209b7?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
   <a href="https://acm1966.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-GitHub%20Pages-4361ee?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" />
