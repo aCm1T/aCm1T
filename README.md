@@ -30,7 +30,7 @@
 <!-- Dark Mode -->
 <p align="center">
   <a href="https://github.com/acm1t#gh-dark-mode-only">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=acm1t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CC9F0&icon_color=7209B7&text_color=C9D1D9#gh-dark-mode-only" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=acm1t&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CC9F0&icon_color=7209B7&text_color=C9D1D9#gh-dark-mode-only" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/acm1t#gh-dark-mode-only">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=acm1t&theme=tokyonight&hide_border=true&background=0D1117&ring=4CC9F0&fire=7209B7&currStreakLabel=4CC9F0#gh-dark-mode-only" alt="GitHub Streak" />
@@ -40,7 +40,7 @@
 <!-- Light Mode -->
 <p align="center">
   <a href="https://github.com/acm1t#gh-light-mode-only">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=acm1t&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=4361EE&icon_color=7209B7&text_color=333333#gh-light-mode-only" alt="GitHub Stats" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=acm1t&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=4361EE&icon_color=7209B7&text_color=333333#gh-light-mode-only" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/acm1t#gh-light-mode-only">
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=acm1t&theme=default&hide_border=true&background=FFFFFF&ring=4361EE&fire=7209B7&currStreakLabel=4361EE#gh-light-mode-only" alt="GitHub Streak" />
@@ -50,14 +50,14 @@
 <!-- Top Languages - Dark -->
 <p align="center">
   <a href="https://github.com/acm1t#gh-dark-mode-only">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acm1t&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CC9F0&text_color=C9D1D9#gh-dark-mode-only" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acm1t&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4CC9F0&text_color=C9D1D9#gh-dark-mode-only" alt="Top Languages" />
   </a>
 </p>
 
 <!-- Top Languages - Light -->
 <p align="center">
   <a href="https://github.com/acm1t#gh-light-mode-only">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acm1t&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=4361EE&text_color=333333#gh-light-mode-only" alt="Top Languages" />
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=acm1t&layout=compact&theme=default&hide_border=true&bg_color=FFFFFF&title_color=4361EE&text_color=333333#gh-light-mode-only" alt="Top Languages" />
   </a>
 </p>
 
